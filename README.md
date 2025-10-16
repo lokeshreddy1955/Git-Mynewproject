@@ -1,4 +1,4 @@
 # Git-Mynewproject
 This is my new project
 <br>
-Author - Lokesh
+Author - Lokesh(My project)
